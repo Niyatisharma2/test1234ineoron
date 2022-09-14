@@ -119,9 +119,7 @@ print(mylist)
 
 #5.)Create a function that returns the mean of all digits.
 
-
 # function from the statistics module
-
 # Importing the statistics module
 import statistics
 
